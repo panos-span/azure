@@ -1,0 +1,1073 @@
+[
+  {
+    "ATMCode": 10,
+    "CardNumber": 560222217915598000,
+    "Type": 1,
+    "Amount": 24,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:25:46.8470000Z"
+  },
+  {
+    "ATMCode": 16,
+    "CardNumber": 3583257214000023,
+    "Type": 1,
+    "Amount": 22,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:25:47.8470000Z"
+  },
+  {
+    "ATMCode": 12,
+    "CardNumber": 5893112367133403000,
+    "Type": 0,
+    "Amount": 46,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:25:48.8470000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 201634601435467,
+    "Type": 0,
+    "Amount": 40,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:25:49.8620000Z"
+  },
+  {
+    "ATMCode": 18,
+    "CardNumber": 5602238863017460,
+    "Type": 0,
+    "Amount": 29,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:25:50.8620000Z"
+  },
+  {
+    "ATMCode": 19,
+    "CardNumber": 5200253312538103,
+    "Type": 1,
+    "Amount": 44,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:25:51.8620000Z"
+  },
+  {
+    "ATMCode": 10,
+    "CardNumber": 560222217915598000,
+    "Type": 1,
+    "Amount": 25,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:25:52.8780000Z"
+  },
+  {
+    "ATMCode": 19,
+    "CardNumber": 50384191807294800,
+    "Type": 1,
+    "Amount": 21,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:25:53.8780000Z"
+  },
+  {
+    "ATMCode": 20,
+    "CardNumber": 3554025590595485,
+    "Type": 1,
+    "Amount": 17,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:25:54.8780000Z"
+  },
+  {
+    "ATMCode": 19,
+    "CardNumber": 3554025590595485,
+    "Type": 0,
+    "Amount": 46,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:25:55.8780000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 201634601435467,
+    "Type": 0,
+    "Amount": 36,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:25:56.8940000Z"
+  },
+  {
+    "ATMCode": 20,
+    "CardNumber": 5200253312538103,
+    "Type": 1,
+    "Amount": 36,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:25:57.8940000Z"
+  },
+  {
+    "ATMCode": 18,
+    "CardNumber": 56022176913710210,
+    "Type": 0,
+    "Amount": 23,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:25:58.8940000Z"
+  },
+  {
+    "ATMCode": 10,
+    "CardNumber": 5446210381593272,
+    "Type": 0,
+    "Amount": 17,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:25:59.9090000Z"
+  },
+  {
+    "ATMCode": 10,
+    "CardNumber": 5446210381593272,
+    "Type": 0,
+    "Amount": 28,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:00.9090000Z"
+  },
+  {
+    "ATMCode": 19,
+    "CardNumber": 5200253312538103,
+    "Type": 0,
+    "Amount": 23,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:01.9090000Z"
+  },
+  {
+    "ATMCode": 18,
+    "CardNumber": 5602238863017460,
+    "Type": 1,
+    "Amount": 19,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:02.9100000Z"
+  },
+  {
+    "ATMCode": 10,
+    "CardNumber": 4026567514157759,
+    "Type": 1,
+    "Amount": 37,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:03.9260000Z"
+  },
+  {
+    "ATMCode": 21,
+    "CardNumber": 5610827137784218,
+    "Type": 0,
+    "Amount": 27,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:04.9260000Z"
+  },
+  {
+    "ATMCode": 20,
+    "CardNumber": 5602246755688900,
+    "Type": 0,
+    "Amount": 21,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:05.9260000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 201634601435467,
+    "Type": 0,
+    "Amount": 44,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:06.9260000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 30487898026193,
+    "Type": 1,
+    "Amount": 49,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:07.9410000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 3534633361736454,
+    "Type": 1,
+    "Amount": 16,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:08.9420000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 30487898026193,
+    "Type": 1,
+    "Amount": 10,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:09.9420000Z"
+  },
+  {
+    "ATMCode": 21,
+    "CardNumber": 50383945269330136,
+    "Type": 0,
+    "Amount": 44,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:10.9420000Z"
+  },
+  {
+    "ATMCode": 10,
+    "CardNumber": 5446210381593272,
+    "Type": 0,
+    "Amount": 25,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:11.9580000Z"
+  },
+  {
+    "ATMCode": 13,
+    "CardNumber": 5610827137784218,
+    "Type": 1,
+    "Amount": 14,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:12.9580000Z"
+  },
+  {
+    "ATMCode": 19,
+    "CardNumber": 50384191807294800,
+    "Type": 0,
+    "Amount": 43,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:13.9580000Z"
+  },
+  {
+    "ATMCode": 18,
+    "CardNumber": 5602238863017460,
+    "Type": 1,
+    "Amount": 39,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:14.9580000Z"
+  },
+  {
+    "ATMCode": 10,
+    "CardNumber": 4026567514157759,
+    "Type": 0,
+    "Amount": 29,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:15.9750000Z"
+  },
+  {
+    "ATMCode": 10,
+    "CardNumber": 560222217915598000,
+    "Type": 1,
+    "Amount": 46,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:16.9750000Z"
+  },
+  {
+    "ATMCode": 19,
+    "CardNumber": 3535766537597043,
+    "Type": 0,
+    "Amount": 44,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:17.9750000Z"
+  },
+  {
+    "ATMCode": 18,
+    "CardNumber": 5602238863017460,
+    "Type": 0,
+    "Amount": 50,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:18.9910000Z"
+  },
+  {
+    "ATMCode": 10,
+    "CardNumber": 560222217915598000,
+    "Type": 1,
+    "Amount": 14,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:20.0860000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 3542024987623740,
+    "Type": 1,
+    "Amount": 13,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:20.9920000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 201634601435467,
+    "Type": 1,
+    "Amount": 26,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:21.9930000Z"
+  },
+  {
+    "ATMCode": 10,
+    "CardNumber": 5446210381593272,
+    "Type": 0,
+    "Amount": 14,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:23.0090000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 201634601435467,
+    "Type": 0,
+    "Amount": 18,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:24.0090000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 30487898026193,
+    "Type": 1,
+    "Amount": 32,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:25.0090000Z"
+  },
+  {
+    "ATMCode": 18,
+    "CardNumber": 56022176913710210,
+    "Type": 1,
+    "Amount": 49,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:26.0090000Z"
+  },
+  {
+    "ATMCode": 21,
+    "CardNumber": 5610827137784218,
+    "Type": 0,
+    "Amount": 29,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:27.0250000Z"
+  },
+  {
+    "ATMCode": 10,
+    "CardNumber": 5446210381593272,
+    "Type": 0,
+    "Amount": 42,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:28.0250000Z"
+  },
+  {
+    "ATMCode": 12,
+    "CardNumber": 201634601435467,
+    "Type": 0,
+    "Amount": 33,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:29.0250000Z"
+  },
+  {
+    "ATMCode": 12,
+    "CardNumber": 5893112367133403000,
+    "Type": 1,
+    "Amount": 35,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:30.0410000Z"
+  },
+  {
+    "ATMCode": 17,
+    "CardNumber": 3549670931669297,
+    "Type": 0,
+    "Amount": 27,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:31.0410000Z"
+  },
+  {
+    "ATMCode": 12,
+    "CardNumber": 5893112367133403000,
+    "Type": 0,
+    "Amount": 46,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:32.0410000Z"
+  },
+  {
+    "ATMCode": 18,
+    "CardNumber": 5602238863017460,
+    "Type": 1,
+    "Amount": 36,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:33.0410000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 30487898026193,
+    "Type": 0,
+    "Amount": 23,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:34.0560000Z"
+  },
+  {
+    "ATMCode": 21,
+    "CardNumber": 5610827137784218,
+    "Type": 1,
+    "Amount": 28,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:35.0720000Z"
+  },
+  {
+    "ATMCode": 19,
+    "CardNumber": 5602246755688900,
+    "Type": 0,
+    "Amount": 41,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:36.0720000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 3542024987623740,
+    "Type": 1,
+    "Amount": 31,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:37.1030000Z"
+  },
+  {
+    "ATMCode": 18,
+    "CardNumber": 604513436397576,
+    "Type": 0,
+    "Amount": 43,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:38.0880000Z"
+  },
+  {
+    "ATMCode": 19,
+    "CardNumber": 3554025590595485,
+    "Type": 1,
+    "Amount": 46,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:39.0880000Z"
+  },
+  {
+    "ATMCode": 19,
+    "CardNumber": 5602246755688900,
+    "Type": 1,
+    "Amount": 14,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:40.0880000Z"
+  },
+  {
+    "ATMCode": 20,
+    "CardNumber": 50384191807294800,
+    "Type": 1,
+    "Amount": 23,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:41.0880000Z"
+  },
+  {
+    "ATMCode": 18,
+    "CardNumber": 604513436397576,
+    "Type": 0,
+    "Amount": 23,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:42.0880000Z"
+  },
+  {
+    "ATMCode": 13,
+    "CardNumber": 50383945269330136,
+    "Type": 1,
+    "Amount": 10,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:43.1030000Z"
+  },
+  {
+    "ATMCode": 17,
+    "CardNumber": 3549670931669297,
+    "Type": 1,
+    "Amount": 22,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:44.1030000Z"
+  },
+  {
+    "ATMCode": 13,
+    "CardNumber": 50383945269330136,
+    "Type": 1,
+    "Amount": 24,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:45.1200000Z"
+  },
+  {
+    "ATMCode": 21,
+    "CardNumber": 5610827137784218,
+    "Type": 0,
+    "Amount": 44,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:46.1200000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 201634601435467,
+    "Type": 1,
+    "Amount": 35,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:47.1200000Z"
+  },
+  {
+    "ATMCode": 19,
+    "CardNumber": 50384191807294800,
+    "Type": 1,
+    "Amount": 13,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:48.1200000Z"
+  },
+  {
+    "ATMCode": 10,
+    "CardNumber": 5446210381593272,
+    "Type": 0,
+    "Amount": 26,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:49.1360000Z"
+  },
+  {
+    "ATMCode": 13,
+    "CardNumber": 50383945269330136,
+    "Type": 0,
+    "Amount": 32,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:50.1360000Z"
+  },
+  {
+    "ATMCode": 19,
+    "CardNumber": 3554025590595485,
+    "Type": 0,
+    "Amount": 39,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:51.1510000Z"
+  },
+  {
+    "ATMCode": 19,
+    "CardNumber": 5602246755688900,
+    "Type": 0,
+    "Amount": 34,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:52.8540000Z"
+  },
+  {
+    "ATMCode": 19,
+    "CardNumber": 5602246755688900,
+    "Type": 0,
+    "Amount": 49,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:53.8540000Z"
+  },
+  {
+    "ATMCode": 10,
+    "CardNumber": 560222217915598000,
+    "Type": 0,
+    "Amount": 23,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:54.8540000Z"
+  },
+  {
+    "ATMCode": 20,
+    "CardNumber": 5602246755688900,
+    "Type": 1,
+    "Amount": 28,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:55.8700000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 3542024987623740,
+    "Type": 0,
+    "Amount": 28,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:56.8700000Z"
+  },
+  {
+    "ATMCode": 19,
+    "CardNumber": 5602246755688900,
+    "Type": 1,
+    "Amount": 24,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:57.8700000Z"
+  },
+  {
+    "ATMCode": 10,
+    "CardNumber": 4026567514157759,
+    "Type": 0,
+    "Amount": 46,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:58.8700000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 604513436397576,
+    "Type": 1,
+    "Amount": 26,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:26:59.8850000Z"
+  },
+  {
+    "ATMCode": 12,
+    "CardNumber": 5893112367133403000,
+    "Type": 0,
+    "Amount": 25,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:00.9010000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 30487898026193,
+    "Type": 1,
+    "Amount": 19,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:01.9010000Z"
+  },
+  {
+    "ATMCode": 18,
+    "CardNumber": 56022176913710210,
+    "Type": 1,
+    "Amount": 24,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:02.9010000Z"
+  },
+  {
+    "ATMCode": 18,
+    "CardNumber": 5602238863017460,
+    "Type": 1,
+    "Amount": 21,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:03.9170000Z"
+  },
+  {
+    "ATMCode": 10,
+    "CardNumber": 4026567514157759,
+    "Type": 1,
+    "Amount": 27,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:04.9170000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 3534633361736454,
+    "Type": 1,
+    "Amount": 27,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:05.9170000Z"
+  },
+  {
+    "ATMCode": 21,
+    "CardNumber": 50383945269330136,
+    "Type": 0,
+    "Amount": 39,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:06.9170000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 3542024987623740,
+    "Type": 0,
+    "Amount": 41,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:07.9170000Z"
+  },
+  {
+    "ATMCode": 13,
+    "CardNumber": 5610827137784218,
+    "Type": 0,
+    "Amount": 37,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:08.9330000Z"
+  },
+  {
+    "ATMCode": 16,
+    "CardNumber": 3583257214000023,
+    "Type": 0,
+    "Amount": 12,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:09.9330000Z"
+  },
+  {
+    "ATMCode": 19,
+    "CardNumber": 50384191807294800,
+    "Type": 0,
+    "Amount": 44,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:10.9330000Z"
+  },
+  {
+    "ATMCode": 10,
+    "CardNumber": 560222217915598000,
+    "Type": 0,
+    "Amount": 21,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:11.9480000Z"
+  },
+  {
+    "ATMCode": 19,
+    "CardNumber": 5602246755688900,
+    "Type": 0,
+    "Amount": 21,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:12.9480000Z"
+  },
+  {
+    "ATMCode": 16,
+    "CardNumber": 3583257214000023,
+    "Type": 1,
+    "Amount": 30,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:13.9480000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 30487898026193,
+    "Type": 0,
+    "Amount": 38,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:14.9640000Z"
+  },
+  {
+    "ATMCode": 22,
+    "CardNumber": 5602246755688900,
+    "Type": 1,
+    "Amount": 32,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:15.9640000Z"
+  },
+  {
+    "ATMCode": 17,
+    "CardNumber": 3549670931669297,
+    "Type": 0,
+    "Amount": 11,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:16.9790000Z"
+  },
+  {
+    "ATMCode": 10,
+    "CardNumber": 560222217915598000,
+    "Type": 0,
+    "Amount": 46,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:17.9790000Z"
+  },
+  {
+    "ATMCode": 10,
+    "CardNumber": 4026567514157759,
+    "Type": 1,
+    "Amount": 45,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:18.9950000Z"
+  },
+  {
+    "ATMCode": 17,
+    "CardNumber": 3549670931669297,
+    "Type": 1,
+    "Amount": 25,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:19.9950000Z"
+  },
+  {
+    "ATMCode": 13,
+    "CardNumber": 5610827137784218,
+    "Type": 1,
+    "Amount": 34,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:21.0110000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 201634601435467,
+    "Type": 0,
+    "Amount": 12,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:22.0260000Z"
+  },
+  {
+    "ATMCode": 16,
+    "CardNumber": 3583257214000023,
+    "Type": 1,
+    "Amount": 12,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:23.0420000Z"
+  },
+  {
+    "ATMCode": 18,
+    "CardNumber": 5602238863017460,
+    "Type": 0,
+    "Amount": 41,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:24.0420000Z"
+  },
+  {
+    "ATMCode": 17,
+    "CardNumber": 3549670931669297,
+    "Type": 0,
+    "Amount": 28,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:25.0580000Z"
+  },
+  {
+    "ATMCode": 12,
+    "CardNumber": 5893112367133403000,
+    "Type": 1,
+    "Amount": 44,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:26.0420000Z"
+  },
+  {
+    "ATMCode": 18,
+    "CardNumber": 604513436397576,
+    "Type": 1,
+    "Amount": 28,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:27.0420000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 30487898026193,
+    "Type": 0,
+    "Amount": 18,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:28.0420000Z"
+  },
+  {
+    "ATMCode": 18,
+    "CardNumber": 5602238863017460,
+    "Type": 1,
+    "Amount": 28,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:29.0420000Z"
+  },
+  {
+    "ATMCode": 21,
+    "CardNumber": 50383945269330136,
+    "Type": 0,
+    "Amount": 32,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:30.0590000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 3542024987623740,
+    "Type": 0,
+    "Amount": 10,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:31.0590000Z"
+  },
+  {
+    "ATMCode": 21,
+    "CardNumber": 5610827137784218,
+    "Type": 1,
+    "Amount": 13,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:32.0590000Z"
+  },
+  {
+    "ATMCode": 18,
+    "CardNumber": 56022176913710210,
+    "Type": 0,
+    "Amount": 41,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:33.0590000Z"
+  },
+  {
+    "ATMCode": 19,
+    "CardNumber": 5602246755688900,
+    "Type": 1,
+    "Amount": 49,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:34.0750000Z"
+  },
+  {
+    "ATMCode": 20,
+    "CardNumber": 5200253312538103,
+    "Type": 0,
+    "Amount": 17,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:35.0750000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 3542024987623740,
+    "Type": 1,
+    "Amount": 26,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:36.0900000Z"
+  },
+  {
+    "ATMCode": 10,
+    "CardNumber": 5446210381593272,
+    "Type": 0,
+    "Amount": 33,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:37.0900000Z"
+  },
+  {
+    "ATMCode": 18,
+    "CardNumber": 5602238863017460,
+    "Type": 0,
+    "Amount": 17,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:38.0910000Z"
+  },
+  {
+    "ATMCode": 12,
+    "CardNumber": 5893112367133403000,
+    "Type": 0,
+    "Amount": 32,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:39.1060000Z"
+  },
+  {
+    "ATMCode": 20,
+    "CardNumber": 5602246755688900,
+    "Type": 0,
+    "Amount": 49,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:40.1220000Z"
+  },
+  {
+    "ATMCode": 18,
+    "CardNumber": 604513436397576,
+    "Type": 0,
+    "Amount": 32,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:41.1220000Z"
+  },
+  {
+    "ATMCode": 18,
+    "CardNumber": 56022176913710210,
+    "Type": 1,
+    "Amount": 26,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:42.1220000Z"
+  },
+  {
+    "ATMCode": 20,
+    "CardNumber": 5200253312538103,
+    "Type": 1,
+    "Amount": 43,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:43.1220000Z"
+  },
+  {
+    "ATMCode": 15,
+    "CardNumber": 3534633361736454,
+    "Type": 0,
+    "Amount": 22,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:44.1380000Z"
+  },
+  {
+    "ATMCode": 13,
+    "CardNumber": 50383945269330136,
+    "Type": 0,
+    "Amount": 43,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:45.1380000Z"
+  },
+  {
+    "ATMCode": 10,
+    "CardNumber": 560222217915598000,
+    "Type": 1,
+    "Amount": 17,
+    "EventProcessedUtcTime": "2023-05-26T23:28:58.8782124Z",
+    "PartitionId": 0,
+    "EventEnqueuedUtcTime": "2023-05-26T23:27:46.1380000Z"
+  }
+]
