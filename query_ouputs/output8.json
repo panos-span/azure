@@ -1,0 +1,1262 @@
+[
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 7,
+    "Customer_AreaCode": 3,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 9,
+    "Customer_AreaCode": 10,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 2
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 2
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 3
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 2
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 2
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 3
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 4
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 4
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 3
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 5
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 1,
+    "Customer_AreaCode": 6,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 3
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 4
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 5
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 6
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 1,
+    "Customer_AreaCode": 6,
+    "Count": 2
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 6
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 10,
+    "Customer_AreaCode": 6,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 5
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 4
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 7
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 8
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 6
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 5
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 9
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 7
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 8
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 10
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 9
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 10
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 6
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 1,
+    "Customer_AreaCode": 6,
+    "Count": 3
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 11
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 9,
+    "Customer_AreaCode": 7,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 9,
+    "Customer_AreaCode": 10,
+    "Count": 2
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 3,
+    "Customer_AreaCode": 4,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 9,
+    "Customer_AreaCode": 10,
+    "Count": 3
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 7
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 11
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 1,
+    "Customer_AreaCode": 6,
+    "Count": 4
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 7
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 12
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 8
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 8
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 9
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 9
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 10,
+    "Customer_AreaCode": 6,
+    "Count": 2
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 3,
+    "Customer_AreaCode": 4,
+    "Count": 2
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 10,
+    "Customer_AreaCode": 6,
+    "Count": 3
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 1,
+    "Customer_AreaCode": 6,
+    "Count": 5
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 13
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 10
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 12
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 10,
+    "Customer_AreaCode": 6,
+    "Count": 4
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 11
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 12
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 13
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 13
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 14
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 14
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 14
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 2,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 9,
+    "Customer_AreaCode": 10,
+    "Count": 4
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 15
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 10
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 11
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 15
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 16
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 1,
+    "Customer_AreaCode": 6,
+    "Count": 6
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 17
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 10,
+    "Customer_AreaCode": 6,
+    "Count": 5
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 7,
+    "Customer_AreaCode": 3,
+    "Count": 2
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 15
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 16
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 16
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 7,
+    "Customer_AreaCode": 3,
+    "Count": 3
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 18
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 6,
+    "Customer_AreaCode": 1,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 3,
+    "Customer_AreaCode": 4,
+    "Count": 3
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 17
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 18
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 3,
+    "Customer_AreaCode": 4,
+    "Count": 4
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 10,
+    "Customer_AreaCode": 6,
+    "Count": 6
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 19
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 7,
+    "Customer_AreaCode": 3,
+    "Count": 4
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 12
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 3,
+    "Customer_AreaCode": 4,
+    "Count": 5
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 9,
+    "Customer_AreaCode": 10,
+    "Count": 5
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 13
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 20
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 14
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 1,
+    "Customer_AreaCode": 6,
+    "Count": 7
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 21
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 1,
+    "Customer_AreaCode": 6,
+    "Count": 8
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 15
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 17
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 22
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 19
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 16
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 9,
+    "Customer_AreaCode": 10,
+    "Count": 6
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 17
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 18
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 23
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 10,
+    "Customer_AreaCode": 6,
+    "Count": 7
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 20
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 19
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 7,
+    "Customer_AreaCode": 3,
+    "Count": 3
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 9,
+    "Customer_AreaCode": 10,
+    "Count": 5
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 22
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 17
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 16
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 18
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 15
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 14
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 21
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 16
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 17
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 16
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 13
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 15
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 15
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 1,
+    "Customer_AreaCode": 6,
+    "Count": 7
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 20
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 19
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 18
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 17
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 1,
+    "Customer_AreaCode": 6,
+    "Count": 6
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 14
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 10,
+    "Customer_AreaCode": 6,
+    "Count": 6
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 12
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 14
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 13
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 12
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 11
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 13
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 11
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 16
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 15
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 10
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 14
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 13
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 12
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 1,
+    "Customer_AreaCode": 6,
+    "Count": 5
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 9
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 9,
+    "Customer_AreaCode": 10,
+    "Count": 4
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 3,
+    "Customer_AreaCode": 4,
+    "Count": 4
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 9,
+    "Customer_AreaCode": 10,
+    "Count": 3
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 11
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 12
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 1,
+    "Customer_AreaCode": 6,
+    "Count": 4
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 10
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 11
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 10
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 9
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 8
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 9
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 10,
+    "Customer_AreaCode": 6,
+    "Count": 5
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 3,
+    "Customer_AreaCode": 4,
+    "Count": 3
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 10,
+    "Customer_AreaCode": 6,
+    "Count": 4
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 1,
+    "Customer_AreaCode": 6,
+    "Count": 3
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 10
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 7
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 8
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 10,
+    "Customer_AreaCode": 6,
+    "Count": 3
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 6
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 5
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 4
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 7
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 9
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 3
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 6
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 9,
+    "Customer_AreaCode": 10,
+    "Count": 2
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 8
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 8
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 7
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 5
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 7
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 1,
+    "Customer_AreaCode": 6,
+    "Count": 2
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 6
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 10,
+    "Customer_AreaCode": 6,
+    "Count": 2
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 7,
+    "Customer_AreaCode": 3,
+    "Count": 2
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 2
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 4
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 2,
+    "Customer_AreaCode": 1,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 7,
+    "Customer_AreaCode": 3,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 5
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 3,
+    "Customer_AreaCode": 4,
+    "Count": 2
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 3
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 2
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 3,
+    "Customer_AreaCode": 4,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 10,
+    "Customer_AreaCode": 6,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 4
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 6
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 9,
+    "Customer_AreaCode": 10,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 5
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 3
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 4
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 1,
+    "Customer_AreaCode": 6,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 2
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 3
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 5,
+    "Customer_AreaCode": 7,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 11,
+    "Customer_AreaCode": 8,
+    "Count": 1
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 2
+  },
+  {
+    "Alert": 1,
+    "ATM_AreaCode": 4,
+    "Customer_AreaCode": 2,
+    "Count": 1
+  }
+]

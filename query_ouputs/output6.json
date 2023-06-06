@@ -1,0 +1,67 @@
+[
+  {
+    "Total_Amount": 228,
+    "area_city": "Baltimore",
+    "gender": "Male"
+  },
+  {
+    "Total_Amount": 163,
+    "area_city": "Omaha",
+    "gender": "Female"
+  },
+  {
+    "Total_Amount": 149,
+    "area_city": "Tacoma",
+    "gender": "Male"
+  },
+  {
+    "Total_Amount": 113,
+    "area_city": "Memphis",
+    "gender": "Male"
+  },
+  {
+    "Total_Amount": 498,
+    "area_city": "Tacoma",
+    "gender": "Female"
+  },
+  {
+    "Total_Amount": 185,
+    "area_city": "Greeley",
+    "gender": "Male"
+  },
+  {
+    "Total_Amount": 76,
+    "area_city": "Vancouver",
+    "gender": "Female"
+  },
+  {
+    "Total_Amount": 817,
+    "area_city": "Springfield",
+    "gender": "Male"
+  },
+  {
+    "Total_Amount": 44,
+    "area_city": "Springfield",
+    "gender": "Female"
+  },
+  {
+    "Total_Amount": 400,
+    "area_city": "Greeley",
+    "gender": "Female"
+  },
+  {
+    "Total_Amount": 226,
+    "area_city": "Dayton",
+    "gender": "Female"
+  },
+  {
+    "Total_Amount": 432,
+    "area_city": "Omaha",
+    "gender": "Male"
+  },
+  {
+    "Total_Amount": 224,
+    "area_city": "Dayton",
+    "gender": "Male"
+  }
+]
