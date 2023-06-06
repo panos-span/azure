@@ -98,10 +98,26 @@ SELECT 1 AS Alert, [atmref].area_code, [customerref].area_code
 FROM [input]
     TIMESTAMP BY EventEnqueuedUtcTime
     LEFT JOIN [customerref]
-    ON [customerref].card_number = [input].CardNumber
+ON [customerref].card_number = [input].CardNumber
     LEFT JOIN [atmref]
     ON [input].ATMCode = [atmref].atm_code
 WHERE [customerref].area_code != [atmref].area_code
 GROUP BY [atmref].area_code, [customerref].area_code, SlidingWindow(hour, 1)
+
+/* Potential solution */
+
+SELECT 1 AS Alert, [atmref].area_code AS ATM_AreaCode, [customerref].area_code AS Customer_AreaCode, COUNT (*) AS Count
+FROM
+    [input] TIMESTAMP BY EventEnqueuedUtcTime
+    LEFT JOIN [customerref]
+ON [input].CardNumber = [customerref].card_number
+    LEFT JOIN [atmref]
+    ON [input].ATMCode = [atmref].atm_code
+WHERE [customerref].area_code != [atmref].area_code
+GROUP BY
+    [atmref].area_code,
+    [customerref].area_code,
+    SlidingWindow(hour, 1)
+
 
 /* Works without the GROUP BY !!!!!! */
