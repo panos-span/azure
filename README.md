@@ -1,3 +1,19 @@
+## This is the assigment on data streams for the Big Data Management Systems course. 
+We are going to use Azure Stream Analytics to process a data stream of ATM transactions and answer stream queries. 
+The schema of the stream is: (ATMCode, CardNumber, Type, Amount)
+
+Create a trial account at: https://azure.microsoft.com/en-us/
+Setup an Event Hub.
+Generate a Security Access Signature: https://github.com/sandrinodimattia/RedDog/releases
+Edit Generator.html (open with notepad) and update the CONFIG variables with your security access signature.
+Feed the Event Hub with the use of Generator.html (Open Generator.html in a web browser and press the “Send Data” button.)
+Setup a Storage account.
+Upload the Reference Data files to your storage account (the How-To presentation will be updated to include reference data material.)
+Setup a Stream Analytics Job.
+Use the Event Hub + Reference Data Files as Input.
+Create a Blob Storage Output.
+Run the following queries:
+
 - **Query 1**:
   Show the total “Amount” of “Type = 0” transactions at “ATM Code = 21” of the last 10 minutes. Repeat as new events
   keep flowing in (use a sliding window).
